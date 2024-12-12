@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|e:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\up02_kka\\den 3\\learn\\learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|e:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\up02_kka\\den 3\\learn\\learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|e:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\up02_kka\\den 3\\learn\\learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|e:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\up02_kka\\den 3\\learn\\learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DF5736-DDE0-47DD-9DF6-41FE0828698B}|Learn\\Learn.csproj|solutionrelative:learn\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Record.cs",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Record.cs",
+              "RelativeDocumentMoniker": "Learn\\Record.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Record.cs",
+              "RelativeToolTip": "Learn\\Record.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:45:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View.cs",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\View.cs",
+              "RelativeDocumentMoniker": "Learn\\View.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\View.cs",
+              "RelativeToolTip": "Learn\\View.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwB0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:44:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Edit.cs",
+              "RelativeDocumentMoniker": "Learn\\Edit.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Edit.cs",
+              "RelativeToolTip": "Learn\\Edit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAxwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:44:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\MainForm.cs",
+              "RelativeDocumentMoniker": "Learn\\MainForm.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:16:05.444Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\MainForm.cs",
+              "RelativeDocumentMoniker": "Learn\\MainForm.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\MainForm.cs",
+              "RelativeToolTip": "Learn\\MainForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAxwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:30:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Record.cs",
+              "RelativeDocumentMoniker": "Learn\\Record.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\Record.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:32:15.886Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Edit.cs",
+              "RelativeDocumentMoniker": "Learn\\Edit.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\Edit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:27:26.756Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Program.cs",
+              "RelativeDocumentMoniker": "Learn\\Program.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\Program.cs",
+              "RelativeToolTip": "Learn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:31:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\View.cs",
+              "RelativeDocumentMoniker": "Learn\\View.cs",
+              "ToolTip": "E:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B-stud\\10\u0438\u043F213\\UP02_KKA\\Den 3\\Learn\\Learn\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Learn\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:37:42.404Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
